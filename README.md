@@ -21,7 +21,7 @@ Following questions needed to be answered by this analysis.
 
 # Deliverables
 The project includes the following:-
-- SQL [dataset]().
+- SQL [dataset](https://github.com/DataAnalyzer-Pooja/Sales-Insights-Case-Study/blob/main/Sales_Dataset.sql).
 - SQL [code file]() containing EDA queries.
 - Sales Insights [POWER BI dashboard](https://www.novypro.com/project/poojaverma-1). 
 
