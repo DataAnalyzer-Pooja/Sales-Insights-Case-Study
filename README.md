@@ -32,14 +32,12 @@ The project includes the following:-
 - Dealt the data duplicacy. 
 
 # Findings & Recommendations 
-- In 2020, although ElectricalSara Stores contributes the highest in revenue with 46.15%, their gross profit margin % of only 0.4% suggests the need to decrease offered pre or post invoice discounts.
-- To attract more customers, organization should adopt the successful sales strategies used by Delhi NCR which has proven to be our most lucrative market. These strategies can be implemented in other markets to increase business.
+- In 2020, although ElectricalSara Stores contributes the highest in revenue with 46.15%, their gross profit margin % of only 0.4 suggests the need to look into offered pre and post invoice discounts to improve margins. 
+- To attract more customers, organization should adopt the successful sales strategies used by Delhi NCR which has proven to be most lucrative market. These strategies can be implemented in other markets to increase business.
 - To improve profit margins, organization should focus on optimizing the E-commerce business as it contributes significantly in revenue by enhancing the website's user experience, offering personalized product recommendations and leveraging customer reviews and ratings to build trust.
--  
-
+- To increase sales volume and revenue, organization can offer competitive discounts to our top three customers who contributes highest in the revenue.
 - Sales performance for the FY-2020 is continuously declining. One possible reason for declining sales could be the dynamic retail market affected by COVID-19.
-
-
+ 
 I hope this project helps you understand the bike sales distribution. If you have any questions or suggestions, please don't hesitate to reach out.  
 - [LinkedIn](https://www.linkedin.com/in/contact-analyzer-pooja-verma)  
 - [NovyPro](https://www.novypro.com/profile_projects/poojaverma)
