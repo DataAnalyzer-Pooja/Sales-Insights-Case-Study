@@ -1,11 +1,10 @@
 # Sales-Insights-Case-Study
-This project aims to analyze the sales data of AtliQ Hardwares to gain valuable insights and inform business decisions. 
+This project aims to analyze the sales data of AtliQ Hardwares to gain valuable insights in order to improve sales and profitability. 
 
 Welcome to the Sales Insights data analysis case study as a part of the Portfolio Project of DataAnalyzer-Pooja. 
 
 # Problem Statement
-AtliQ Hardwares, a computer hardware producer and supplier is currently encountering challenges in accelerating their sales performance due to inconsistent excel reports provided by regional sales managers. The issue has become even more critical as the company operates in a highly dynamic marketing landscape making it difficult for the sales director to obtain accurate insights into the company's sales performance. To address this, sales director requires a more robust and precise system that can offer real-time insights into the company's sales data facilitating informed decision-making and strategic planning.
-
+AtliQ Hardwares, a computer hardware producer and supplier is currently encountering challenges in accelerating their sales performance due to inconsistent excel reports provided by regional sales managers. The issue has become even more critical as the company operates in a highly dynamic marketing landscape making it difficult for the sales director to obtain accurate insights into the company's performance. To address this, a more robust and precise system is required which can offer real-time insights facilitating informed decision-making and strategic planning.
 
 # About Dataset
 Dataset used in this project contains information about customers, products, markets and transactions for Atliq Hardwares. MYSQL database was sourced into POWER BI Desktop to serve the purpose of analysis and visualization. Dataset includes over 1,50,000 sales transactions and covers a period of several years. Overall, this dataset provides a rich source of information for analyzing customer behavior, product performance and sales trends. 
@@ -33,6 +32,10 @@ The project includes the following:-
 - Dealt the data duplicacy. 
 
 # Findings
+- Although ElectricalSara Stores contributes the highest in revenue with 46.15%, their profit margin of only 0.4% suggests the need to decrease pre or post invoice discounts.
+
+
+- Possible reason for declining sales in Q2 2020 could be the dynamic retail market affected by COVID-19.
 
 I hope this project helps you understand the bike sales distribution. If you have any questions or suggestions, please don't hesitate to reach out.  
 - [LinkedIn](https://www.linkedin.com/in/contact-analyzer-pooja-verma)  
