@@ -22,7 +22,7 @@ Following questions needed to be answered by this analysis.
 # Deliverables
 The project includes the following:-
 - SQL [dataset](https://github.com/DataAnalyzer-Pooja/Sales-Insights-Case-Study/blob/main/Sales_Dataset.sql).
-- SQL [code file]() containing EDA queries.
+- SQL [code file](https://github.com/DataAnalyzer-Pooja/Sales-Insights-Case-Study/blob/main/EDA_Queries.sql) containing EDA queries.
 - Sales Insights [POWER BI dashboard](https://www.novypro.com/project/poojaverma-1). 
 
 # Process
@@ -38,6 +38,6 @@ The project includes the following:-
 - To increase sales volume and revenue, organization can offer competitive discounts to our top three customers who contribute highest in the revenue.
 - Sales performance for FY-2020 is continuously declining. One possible reason for declining sales could be the dynamic retail market affected by COVID-19.
  
-I hope this project helps you understand the bike sales distribution. If you have any questions or suggestions, please don't hesitate to reach out.  
+I hope this project helps you understand the sales insights. If you have any questions or suggestions, please don't hesitate to reach out.  
 - [LinkedIn](https://www.linkedin.com/in/contact-analyzer-pooja-verma)  
 - [NovyPro](https://www.novypro.com/profile_projects/poojaverma)
